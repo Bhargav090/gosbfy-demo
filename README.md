@@ -1,7 +1,4 @@
 # Modern E-Commerce Platform
-
-![GOSBFY](https://api.placeholder.com/600/200)
-
 A sleek and responsive e-commerce application built with Flutter. View the live demo at [https://gosbfy-demo.netlify.app/](https://gosbfy-demo.netlify.app/)
 
 ## Features
