@@ -1,4 +1,4 @@
-# GOSBFY - Modern E-Commerce Platform
+# Modern E-Commerce Platform
 
 ![GOSBFY](https://api.placeholder.com/600/200)
 
@@ -11,14 +11,6 @@ A sleek and responsive e-commerce application built with Flutter. View the live 
 - Shopping cart functionality
 - Favorites/wishlist system
 - Clean, modern interface using Material Design
-
-## Screenshots
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="https://api.placeholder.com/180/320" alt="Mobile View" />
-  <img src="https://api.placeholder.com/360/240" alt="Tablet View" />
-  <img src="https://api.placeholder.com/540/320" alt="Desktop View" />
-</div>
 
 ## Getting Started
 
